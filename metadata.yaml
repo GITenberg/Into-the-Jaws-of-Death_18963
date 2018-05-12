@@ -1,0 +1,26 @@
+_repo: Into-the-Jaws-of-Death_18963
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: O'Brien, Jack
+    gutenberg_agent_id: '8374'
+    url: http://www.gutenberg.org/2009/agents/8374
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2006-08-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18963'
+  lccn: '19014930'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Personal narratives, Canadian'
+- !lcc 'D501'
+title: Into the Jaws of Death
+url: http://www.gutenberg.org/ebooks/18963
